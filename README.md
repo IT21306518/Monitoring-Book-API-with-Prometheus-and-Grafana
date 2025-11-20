@@ -57,3 +57,10 @@ This project demonstrates the full cycle of monitoring and visualization of a RE
   
   Set up alerting in Grafana based on request rate thresholds.
 This is a complete implementation of monitoring and alerting for a web service using Docker, Prometheus, and Grafana.
+
+
+
+Clone the repository:
+git clone https://github.com/IT21306518/Monitoring-Book-API-with-Prometheus-and-Grafana.git
+cd Monitoring-Book-API-with-Prometheus-and-Grafana
+Demonstration Video: 2025_A1_G29.mp4
